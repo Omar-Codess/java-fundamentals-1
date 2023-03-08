@@ -8,16 +8,16 @@ public class FizzBuzz {
         String[] cpuNumbers = new String[i];
 
         do {
-            if (i != 0 && i % 3 == 0){
+
+            if (i != 0 && i % 3 == 0 && i % 5 == 0){
+                System.out.println("FizzBuzz");
+            }else if (i != 0 && i % 3 == 0){
                 System.out.println("Fizz");
             } else if (i != 0 && i % 5 == 0){
                 System.out.println("Buzz");
+            } else {
+                System.out.println(i);
             }
-            System.out.println(i);
-            if (i != 0 && i % 3 == 0 && i % 5 == 0){
-                System.out.println("FizzBuzz");
-            }
-
             i++;
         } while (i < 101);
     }

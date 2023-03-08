@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4fb89f-539b-43d1-bb06-4e363764d1ec" name="Changes" comment="first commit" />
+    <list default="true" id="8d4fb89f-539b-43d1-bb06-4e363764d1ec" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/FizzBuzz.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678291983430</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1678292013571</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678292013571</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
