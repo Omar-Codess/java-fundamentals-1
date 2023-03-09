@@ -14,20 +14,19 @@ public class TrainTicket {
 
         double totalPrice = userKm * 0.21;
 
-        if (userAge > 17 && userAge < 65){
+        if (userAge > 17 && userAge < 65) {
             System.out.print("Il prezzo è: " + totalPrice);
         }
 
-        if (userAge < 18){
+        if (userAge < 18) {
             double totalPriceDiscounted = totalPrice * 0.8;
             System.out.print("Dato che sei minorenne il prezzo scontato del 20% è: " + totalPriceDiscounted);
         }
 
-        if(userAge > 65){
+        if (userAge > 65) {
             double totalPriceDiscounted = totalPrice * 0.6;
             System.out.print("Dato che sei over65 il prezzo scontato del 40% è: " + totalPriceDiscounted);
         }
-
         scan.close();
     }
 }
