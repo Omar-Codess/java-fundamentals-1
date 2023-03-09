@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4fb89f-539b-43d1-bb06-4e363764d1ec" name="Changes" comment="finished project">
+    <list default="true" id="8d4fb89f-539b-43d1-bb06-4e363764d1ec" name="Changes" comment="removed array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/TrainTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/TrainTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +75,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678292314576</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finished project">
+      <created>1678352705007</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678352705007</updated>
+    </task>
+    <task id="LOCAL-00006" summary="scan closed">
+      <created>1678352891438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678352891438</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="finished project" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished project" />
+    <MESSAGE value="scan closed" />
+    <MESSAGE value="removed array" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed array" />
   </component>
 </project>

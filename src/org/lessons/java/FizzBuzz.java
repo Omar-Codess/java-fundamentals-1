@@ -1,14 +1,11 @@
 package org.lessons.java;
 
-import java.util.Arrays;
+
 public class FizzBuzz {
     public static void main(String[] args) {
 
         int i = 0;
-        String[] cpuNumbers = new String[i];
-
         do {
-
             if (i != 0 && i % 3 == 0 && i % 5 == 0){
                 System.out.println("FizzBuzz");
             }else if (i != 0 && i % 3 == 0){
