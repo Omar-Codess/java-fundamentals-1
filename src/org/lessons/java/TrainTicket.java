@@ -27,5 +27,7 @@ public class TrainTicket {
             double totalPriceDiscounted = totalPrice * 0.6;
             System.out.print("Dato che sei over65 il prezzo scontato del 40% è: " + totalPriceDiscounted);
         }
+
+        scan.close();
     }
 }
